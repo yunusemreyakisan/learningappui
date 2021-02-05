@@ -1,6 +1,6 @@
 # learningappui
 
-A new Flutter project.
+The project is the UI part of a learning platform application coded with Flutter.
 
 ## Getting Started
 
